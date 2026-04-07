@@ -1,0 +1,21 @@
+Privacy Policy 
+Last Updated: April 2026
+VitalScan AI is committed to your privacy. Because our app processes sensitive biometric information, we adhere to a "Privacy by Design" philosophy.
+Data Collection: VitalScan AI uses your smartphone camera to analyze facial and body markers for wellness tracking.
+On-Device Processing: All image analysis and biometric calculations are performed 100% on your device.
+Storage: We do not upload, store, or share your raw video or photo data to any external cloud servers.
+Third-Party Sharing: Your health data is never sold to third parties or advertisers.
+User Control: You have full control over your health reports and can delete all local data at any time within the app settings.
+
+✉️ Contact Support
+To provide a high-quality experience for your users, use the following template for your support section:
+Support Email: support@akhtarsitsolutions.com 
+Response Time: We typically respond to all technical queries within 24–48 hours.
+Website: akhtarsitsolutions.com
+Report an Issue: Please include your device model and OS version when contacting support for faster resolution.
+
+Specialist Tip for the Play Store "Data Safety" Section:
+When you fill out the Data Safety form in the Google Play Console:
+Select "Yes" for "Does your app collect or share any of the required user data types?"
+Ensure you check the box that says "Data is processed ephemerally" (since the video is processed in real-time and not stored).
+Highlight that "Data is encrypted in transit" if you allow users to email their reports.
