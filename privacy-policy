@@ -1,21 +1,209 @@
-Privacy Policy 
-Last Updated: April 2026
-VitalScan AI is committed to your privacy. Because our app processes sensitive biometric information, we adhere to a "Privacy by Design" philosophy.
-Data Collection: VitalScan AI uses your smartphone camera to analyze facial and body markers for wellness tracking.
-On-Device Processing: All image analysis and biometric calculations are performed 100% on your device.
-Storage: We do not upload, store, or share your raw video or photo data to any external cloud servers.
-Third-Party Sharing: Your health data is never sold to third parties or advertisers.
-User Control: You have full control over your health reports and can delete all local data at any time within the app settings.
+Support email is now **junaid@pkteam.com** in the app (Contact Support + Privacy Policy) and in the text below. Copy this onto your webpage.
 
-✉️ Contact Support
-To provide a high-quality experience for your users, use the following template for your support section:
-Support Email: support@akhtarsitsolutions.com 
-Response Time: We typically respond to all technical queries within 24–48 hours.
-Website: akhtarsitsolutions.com
-Report an Issue: Please include your device model and OS version when contacting support for faster resolution.
+---
 
-Specialist Tip for the Play Store "Data Safety" Section:
-When you fill out the Data Safety form in the Google Play Console:
-Select "Yes" for "Does your app collect or share any of the required user data types?"
-Ensure you check the box that says "Data is processed ephemerally" (since the video is processed in real-time and not stored).
-Highlight that "Data is encrypted in transit" if you allow users to email their reports.
+**Privacy Policy**  
+**AI Health Scan**  
+Operated by **Aladdin Apps**
+
+Last updated: August 17, 2026
+
+This Privacy Policy explains how Aladdin Apps (“we”, “us”, or “our”) collects, uses, shares, and deletes information when you use the AI Health Scan mobile application (the “App”).
+
+By creating an account or using the App, you agree to this Privacy Policy.
+
+If you have questions, contact: **junaid@pkteam.com**
+
+---
+
+**1. Who we are**
+
+AI Health Scan is a wellness and educational photo-analysis app. It reviews photos you capture (front face and side profile) and related information you enter (such as age and gender) to generate AI-based wellness insights.
+
+The App is **not a medical device**, is **not a diagnostic service**, and does **not** provide medical advice, treatment, or emergency care. Results may be inaccurate or incomplete. Always consult a qualified healthcare professional for medical concerns.
+
+Developer / operator: Aladdin Apps  
+Support: junaid@pkteam.com
+
+---
+
+**2. Purpose of the App**
+
+We process information only to:
+
+- create and manage your account  
+- let you take or upload scan photos  
+- generate wellness/educational scan reports  
+- save reports and drafts on your device  
+- manage subscriptions and scan limits  
+- provide customer support  
+- operate, secure, and improve the App  
+- show ads on Android  
+- send service notifications where enabled  
+
+We do not use scan photos for advertising.
+
+---
+
+**3. Information we collect**
+
+**3.1 Account information (required to create an account)**  
+- Full name  
+- Email address  
+- Password (stored in protected/hashed form)  
+- Email one-time passcode (OTP) used to verify your account or reset your password  
+
+**3.2 Profile information (optional or user-provided)**  
+- Profile photo, if you upload one  
+- Display name for a scan, if you enter one  
+
+**3.3 Scan and wellness information**  
+When you start a scan and tap **Allow**, we process:  
+- Front-facing scan photo  
+- Side-profile scan photo  
+- Age  
+- Gender  
+- Optional name, if you entered one  
+- The wellness report generated from that scan  
+
+On-device Google ML Kit Face Detection is used only to help you frame the photo. Live camera frames from that helper are not stored and are not sent to Gemini.
+
+The App does not collect Face ID, TrueDepth, 3D face maps, or biometric templates for identity or device unlock. Scan photos are 2D photographs.
+
+**3.4 Subscription and purchase information**  
+If you buy a plan: product/plan identifiers, purchase or entitlement status, and scan-limit / subscription status. Payments are processed by Apple App Store or Google Play. We do not receive your full payment-card number.
+
+**3.5 Device and technical information**  
+App version, diagnostics, identifiers used by analytics and (on Android) advertising SDKs, push-notification token if notifications are used, language/locale, and technical logs created when you connect to our servers.
+
+**3.6 Advertising information (Android only)**  
+Google AdMob may collect advertising identifiers, app activity, device identifiers, and diagnostics to show ads. Ads are not enabled on iOS in the current App.
+
+**3.7 Support communications**  
+If you email us, we receive that message and the email address you use.
+
+---
+
+**4. How we use information**
+
+We use information to create and authenticate your account, generate scan reports after you give permission, show reports and drafts, process subscriptions, prevent fraud and abuse, fix bugs, translate some report text when you use a non-English language, show ads on Android, respond to support and deletion requests, and comply with law.
+
+---
+
+**5. Photos, AI analysis, and Gemini**
+
+Before you take scan photos, the App shows a permission screen that explains what data is sent and who it is sent to.
+
+If you tap **Allow and continue**, your selected photo(s), together with age, gender, and optional name, are sent over a secure connection so we can generate your scan results.
+
+**Who it is sent to:**  
+Your selected photo will be sent to **Gemini, a third-party AI service provider**, to analyze the image and generate your scan results.
+
+If you tap **Don’t allow**, no scan photos or personal scan data are sent for AI analysis, and the camera/scan flow does not continue.
+
+Scan photos are processed to create the report you requested. We do not permanently store uploaded scan images on our servers after processing is completed. Reports and photo copies may remain on your device until you delete the scan, delete your account, or uninstall the App.
+
+Scan photos are not sold and are not used for advertising.
+
+---
+
+**6. How we share information**
+
+We do not sell, rent, or trade your images or personal information.
+
+We share information only as needed to run the App:
+
+- **Gemini (Google):** scan photos and related inputs (age, gender, optional name), only after you tap Allow  
+- **Our servers:** account, profile, subscriptions, and analysis requests  
+- **Google AdMob (Android):** advertising ID, app activity, device identifiers, and diagnostics  
+- **Firebase / Google:** app activity, device identifiers, diagnostics, and push token  
+- **Apple / Google Play:** purchase and subscription processing  
+- **Translation services:** some report text if your App language is not English  
+- **Legal / safety:** if required by law or to prevent fraud or abuse  
+
+---
+
+**7. Data stored on your device**
+
+The App may store a login session, language settings, scan reports, local photo copies, and incomplete drafts. Uninstalling the App removes local data from that device. It does not by itself delete your online account.
+
+---
+
+**8. Encryption and security**
+
+User data sent between the App and our servers is encrypted in transit (HTTPS). We use reasonable safeguards. No internet service is 100% secure.
+
+---
+
+**9. Data retention**
+
+- Account data: until you delete your account  
+- Scan images on our servers: not kept permanently after analysis  
+- Scan reports on your device: until you delete the scan, delete your account, or uninstall  
+- Subscription records: as needed for the plan and as required by Apple/Google or law  
+- Support emails: as needed to handle your request  
+- Technical logs and ads/analytics data: only as needed, including per Google SDK practices  
+
+---
+
+**10. Your choices**
+
+You can decline AI photo sharing, skip a profile photo, change your password, delete scans, log out, delete your account, disable notifications, and reset your Android advertising ID.
+
+---
+
+**11. Delete your account and associated data**
+
+You may delete your account at any time. Deletion is permanent.
+
+**In the App**  
+1. Open AI Health Scan and sign in.  
+2. Go to **Profile**.  
+3. Open **Danger Zone**.  
+4. Tap **Delete Account**.  
+5. Enter your password and tap **Delete permanently**.
+
+This deletes your account and associated data, including profile information and server account data, and removes scans saved on that device.
+
+**If you cannot use the App**  
+Email **junaid@pkteam.com** from the same email address as your account, with the subject: **Delete my AI Health Scan account**.
+
+We complete deletion as soon as reasonably possible, typically within **30 days**. Limited records may be kept if required by law. Uninstalling the App alone does not delete your online account.
+
+---
+
+**12. Children’s privacy**
+
+The App is not intended for children under 18. If you believe a child has created an account, contact **junaid@pkteam.com** and we will take steps to delete the information.
+
+---
+
+**13. International processing**
+
+Information may be processed where you use the App and in other countries where we or our providers (including Gemini / Google) operate.
+
+---
+
+**14. Limitation of medical responsibility**
+
+AI Health Scan is not a licensed medical provider, diagnostic service, emergency system, or substitute for professional medical evaluation. The camera is used only to capture 2D photographs. The App does not measure clinical vitals using device sensors.
+
+---
+
+**15. Changes**
+
+We may update this Privacy Policy. The updated version will be posted in the App and/or on this page with a new “Last updated” date.
+
+---
+
+**16. Contact**
+
+Aladdin Apps  
+App: AI Health Scan  
+Support email: **junaid@pkteam.com**
+
+---
+
+**17. Consent**
+
+By creating an account or using AI Health Scan, you confirm that you have read this Privacy Policy and agree to the processing described here, including sending scan photos to Gemini after you tap Allow.
